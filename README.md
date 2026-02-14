@@ -26,7 +26,7 @@ Exercise angina
 
 ST depression
 
-Slope od ST
+Slope of ST
 
 Number of vessels fluro
 
