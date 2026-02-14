@@ -4,29 +4,33 @@ This project builds a machine learning model to predict the presence or absence 
 
 The dataset contains medical attributes such as:
 
+Id
+
 Age
 
 Sex
 
 Chest pain type
 
-Blood pressure (BP)
+BP
 
 Cholesterol
 
-Fasting blood sugar
+FBS over 120
 
-ECG results
+EKG results
 
-Maximum heart rate
+Max HR
 
-Exercise-induced angina
+Exercise angina
 
 ST depression
 
-Number of vessels
+Slope od ST
 
-Thallium test result
+Number of vessels fluro
+
+Thallium 
 
 Target Variable (Heart Disease)
 
